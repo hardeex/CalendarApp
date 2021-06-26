@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calendar App</string>
+    <string name="my_calendar">MY CALENDAR</string>
+    <string name="on_phone">ON PHONE</string>
+    <string name="program">PROGRAM</string>
+    <string name="select_date">SELECT DATE</string>
+    <string name="selecteddateresult">Selected Date Result</string>
+    <string name="selected_date">Selected Date</string>
+    <string name="age_selected_in_minutes">Date the Calendar </string>
+    <string name="today_s_date">Today\'s Date</string>
+
+
+</resources>
